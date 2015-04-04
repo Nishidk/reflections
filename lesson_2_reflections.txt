@@ -11,7 +11,7 @@ What are some situations when branches would be helpful in keeping your history 
 To develop a parallel vesion of code without affecting the master
 
 How do the diagrams help you visualize the branch structure?
-Pretty much
+Provides a graphical representation for better understanding
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Code from both branches can be merged
