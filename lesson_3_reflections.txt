@@ -7,3 +7,5 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork - When I want to make changes to a repository but do not have permission
 Clone - When I want a local copy of the repository for editing
 Branch - When I want to create a parallel track for an existing code base, eg working on a new feature.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
